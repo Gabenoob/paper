@@ -7,3 +7,5 @@
 *.toc
 *.xdv
 .Ds_Store
+*.bbl
+*.blg
